@@ -16,9 +16,22 @@
 */
 
 const createStudent = () => {
-//   let feedback = 'a';
-//   return student = [{Nome: name}, {Feedback: feedback}]
-//   student.Feedback = feedback = () => 'Eita pessoa boa!';
+  // const student = [{name}, {const feedback = () => 'Eita pessoa boa!'}];
+  // return student
+  // function feedback() {
+  // return 'Eita pessoa boa!'
+  // }
+  // const student = [{name}]
+  // feedback() = Object.create(student);
+  // const student = new Object();
+  // let Nome = Object.create(student);
+  // student.Nome = name;
+  // let feedback = Object.create(student);
+  // student.feedback = () => 'Eita pessoa boa!';
+  // console.log(student);
+  // student.feedback = Feedback
+  // return student;
 };
+// console.log(createStudent('Leandrão, o Lobo Solitário'));
 
 module.exports = createStudent;
